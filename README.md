@@ -13,8 +13,6 @@ As of now I have completed only one course. Will updated as I complete the next 
     - Waypoints and Solution path: 
     <br />
      ![Waypoints and Solution path](https://github.com/Mojojojooo/Self-Driving-Course/blob/main/Course-1/Course1FinalProject/controller_output/Figure_1.png)
-    <br />
     - Speed Profile:
     <br />
      ![Speed Profile](https://github.com/Mojojojooo/Self-Driving-Course/blob/main/Course-1/Course1FinalProject/controller_output/Figure_2.png)
-    <br />
