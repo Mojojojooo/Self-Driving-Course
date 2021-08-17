@@ -175,7 +175,7 @@ class Controller2D(object):
             throttle_output = 0
             brake_output    = 0
 
-            #using PIT
+            #using PID
             st = t - self.vars.t_previous 
 
             #error value

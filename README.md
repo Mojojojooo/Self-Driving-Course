@@ -7,7 +7,7 @@ As of now I have completed only one course. Will updated as I complete the next 
    - Output for the Kinematic Bicycle model following a figure 8 path.(file: Figure8.txt)
    - Output of the Logitudinal vehicle model.(file: xdata.txt)
    - All the jupyter notebook as included.
-   - Final Project files and outputs are also uploaded.
+   - Final Project files and outputs are also uploaded [here](https://github.com/Mojojojooo/Self-Driving-Course/tree/main/Course-1/Course1FinalProject).
    - Final Project Video : https://youtu.be/rnmEtL7yFPQ
    - Output images : 
      - Waypoints and Solution path: \
